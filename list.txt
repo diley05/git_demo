@@ -2,3 +2,9 @@ things to do:
 
 -practices java 
 - practice git
+
+-miss some other things to do:
+
+- like for got we need to practice more. 
+
+- and make changes from github
