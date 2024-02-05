@@ -1,0 +1,4 @@
+things to do:
+
+-practices java 
+- practice git
